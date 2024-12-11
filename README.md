@@ -1,5 +1,5 @@
 
-# Dual Axis Solar Tracker
+# 🤖Dual Axis Solar Tracker
 
 An Arduino based embedded system project, that is able to track the direction from which the light is comming and rotate it self autoamtically. 
 ### Use Case 
@@ -12,16 +12,15 @@ An Arduino based embedded system project, that is able to track the direction fr
 - Arduino based
 - Charges a Li-ion Battery
 
-## Demo
+## 🔍Demo
 <a href="https://www.youtube.com/watch?v=Qor8kjsCJkA" target="_blank">
   <img src="https://img.youtube.com/vi/Qor8kjsCJkA/hqdefault.jpg" alt="YouTube Video" width="350" height="250">
 </a>
 
-
-## Getting Started
+## 🚀Getting Started
 - Knowledge Required : C/C++, sensor-modules, basic Circuiting & design
 
-## Hardware Requirements
+## 🛠️Hardware Requirements
 - Arduino Nano, 1602 LCD 
 - Sensors : DHT11, Water, LDR sensors
 - SG90 Servo Motor, Solar Panel
@@ -29,30 +28,31 @@ An Arduino based embedded system project, that is able to track the direction fr
 - Battery : 3.7v 18650 Li-ion, 9V alkaline
 - Wires, Soldering, Glue, Tape etc
 
-## Software Requirements
+## 💻Software Requirements
 - Arduino IDE
 - C/C++ Programming Language
 - Necessary Libraries
 
-## Schematic
+## 🖇️Schematic
 ![](images/schematic_diagram.jpg | width=100)
 <img src="images/schematic_diagram.jpg" width="350" height="350" />
 
-## Installation
+## ⚙️Installation
 ```
 git clone https://github.com/pointer2Alvee/embd-sys-dual-axis-solar-tracker.git 
 cd your-repo  
 ```
 
-## Usage
+## 📖Usage
 Upload sketch via Arduino IDE for Embedded projects  
 
-## Roadmap
+## 🗺️Roadmap
 - [x]  Initial release with basic functionalities.
 - [ ]  Add support for IoT device integration.
 - [ ]  Develop mobile app interface for remote control.
 - [ ]  Enhance documentation and add tutorials.
 
+## 🤝Contributing
 Contributions are welcomed!
 
 + Fork the repo. 
@@ -60,9 +60,9 @@ Contributions are welcomed!
 + Commit changes: git commit -m 'Add some feature'.
 + Push to branch: git push origin feature/YourFeature.
 + Open a Pull Request.
-## License
 
+## 📜License
 Distributed under the MIT License. See LICENSE.txt for more information.
 
-## Acknowledgements
+## 🙏Acknowledgements
 - Libraries-Frameworks Used : DHT11, Servo
