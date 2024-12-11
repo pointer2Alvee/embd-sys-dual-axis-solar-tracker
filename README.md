@@ -13,8 +13,7 @@ An Arduino based embedded system project, that is able to track the direction fr
 - Charges a Li-ion Battery
 
 ## Demo
-![pic](images/schematic_diagram.jpg)
-- [Watch-Demo](www.youtube.com)
+[Watch-Demo](www.youtube.com) 
 
 ## Getting Started
 - Knowledge Required : C/C++, sensor-modules, basic Circuiting & design
@@ -32,9 +31,9 @@ An Arduino based embedded system project, that is able to track the direction fr
 - C/C++ Programming Language
 - Necessary Libraries
 
-
 ## Schematic
-![pic]
+![pic](images/schematic_diagram.jpg)
+
 ## Installation
 ```
 git clone https://github.com/pointer2Alvee/embd-sys-dual-axis-solar-tracker.git 
