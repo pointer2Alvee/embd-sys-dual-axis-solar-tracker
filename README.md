@@ -7,7 +7,7 @@ An Arduino based embedded system project, that is able to track the direction fr
 ### Project Status
 - Current Version: V1.0
 
-## ✨ Features
+## ✨Features
 - Dual Axis orientation
 - Arduino based
 - Charges a Li-ion Battery
