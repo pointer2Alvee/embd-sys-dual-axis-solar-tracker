@@ -13,7 +13,8 @@ An Arduino based embedded system project, that is able to track the direction fr
 - Charges a Li-ion Battery
 
 ## Demo
-[Watch-Demo](www.youtube.com) 
+[![Watch Demo](https://img.youtube.com/vi/Qor8kjsCJkA/hqdefault.jpg)](https://www.youtube.com/watch?v=Qor8kjsCJkA)
+
 
 ## Getting Started
 - Knowledge Required : C/C++, sensor-modules, basic Circuiting & design
