@@ -38,6 +38,10 @@ An Arduino based embedded system project, that is able to track the direction fr
 - C/C++ Programming Language
 - Necessary Libraries
 
+## 🛡️Tech Stack
+- C/C++ 💻
+- Arduino IDE 🧩
+
 ## 🖇️Schematic
 <img src="images/schematic_diagram.jpg" width="330" height="330" />
 
