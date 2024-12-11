@@ -33,7 +33,7 @@ An Arduino based embedded system project, that is able to track the direction fr
 
 ## Schematic
 ![](images/schematic_diagram.jpg | width=100)
-<img src="images/schematic_diagram.jpg" width="100" height="100" />
+<img src="images/schematic_diagram.jpg" width="350" height="350" />
 
 ## Installation
 ```
