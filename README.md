@@ -19,7 +19,7 @@ An Arduino based embedded system project, that is able to track the direction fr
 
 ## 🔍Demo
 <a href="https://www.youtube.com/watch?v=Qor8kjsCJkA" target="_blank">
-  <img src="https://img.youtube.com/vi/Qor8kjsCJkA/hqdefault.jpg" alt="YouTube Video" width="350" height="250">
+  <img src="https://img.youtube.com/vi/Qor8kjsCJkA/hqdefault.jpg" alt="YouTube Video" width="390" height="270">
 </a>
 
 ## 🚀Getting Started
@@ -43,7 +43,7 @@ An Arduino based embedded system project, that is able to track the direction fr
 - Arduino IDE 🧩
 
 ## 🖇️Schematic
-<img src="images/schematic_diagram.jpg" width="330" height="330" />
+<img src="images/schematic_diagram.jpg" width="370" height="370" />
 
 ## ⚙️Installation
 ```
