@@ -32,7 +32,7 @@ An Arduino based embedded system project, that is able to track the direction fr
 - Necessary Libraries
 
 ## Schematic
-![pic](images/schematic_diagram.jpg)
+![pic](images/schematic_diagram.jpg | width=50)
 
 ## Installation
 ```
