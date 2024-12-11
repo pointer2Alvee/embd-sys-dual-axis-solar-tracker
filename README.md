@@ -74,3 +74,6 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## 🙏Acknowledgements
 - Libraries-Frameworks Used : DHT11, Servo
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
