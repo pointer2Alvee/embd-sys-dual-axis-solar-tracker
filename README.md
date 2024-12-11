@@ -1,3 +1,8 @@
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="images/proj_pic_1.jpg" alt="Image 1" style="width: 30%; margin: 10px;">
+  <img src="images/proj_pic_2_m.jpg" alt="Image 2" style="width: 30%; margin: 10px;">
+  <img src="images/proj_pic_3.jpg" alt="Image 3" style="width: 30%; margin: 10px;">
+</div>
 
 # 🤖Dual Axis Solar Tracker
 
