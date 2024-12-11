@@ -7,9 +7,9 @@
 # 🤖Dual Axis Solar Tracker
 
 An Arduino based embedded system project, that is able to track the direction from which the light is comming and rotate it self autoamtically. 
-### Use Case 
+#### Use Case 
 - Maximizing Efficiency for solar charging
-### Project Status
+#### Project Status
 - Current Version: V1.0
 
 ## ✨Features
